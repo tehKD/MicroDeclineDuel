@@ -1,5 +1,5 @@
-## Interface: 50001
+## Interface: 50100
 ## Title: MicroDeclineDuel
-## Version: v5.0
+## Version: v5.1
 ## Notes: Minimalistic Addon to decline duel requests.
 MicroDeclineDuel.lua
