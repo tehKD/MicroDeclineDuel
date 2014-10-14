@@ -1,5 +1,5 @@
 ## Interface: 60000
 ## Title: MicroDeclineDuel
-## Version: v6.0 WoD Beta
+## Version: v6.0
 ## Notes: Minimalistic Addon to decline duel requests.
 MicroDeclineDuel.lua
