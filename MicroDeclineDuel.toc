@@ -1,6 +1,6 @@
-## Interface: 80200
+## Interface: 80205
 ## Title: MicroDeclineDuel
-## Version: v8.2
+## Version: v8.2.5
 ## Notes: Minimalistic Addon to decline duel requests.
 ## X-Curse-Packaged-Version: r21
 ## X-Curse-Project-Name: MicroDeclineDuel
