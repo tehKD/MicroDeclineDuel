@@ -1,5 +1,5 @@
-## Interface: 100205
-## Version: v1.4.3
+## Interface: 100206
+## Version: v1.4.7
 ## Title: MicroDeclineDuel
 ## Notes: Minimalistic Addon to decline duel requests.
 ## IconTexture: 236346
